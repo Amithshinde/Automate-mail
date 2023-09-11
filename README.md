@@ -1,5 +1,5 @@
 # Automate-mail
-Payment raminder using Python
+Payment remainder using Python
 Steps:
 **1.Create an .env file:**
 "Create an variable EMAIL and PASSWORD and change env_file_path in senenv_file_pathd_email.py"
