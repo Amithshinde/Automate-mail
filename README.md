@@ -12,3 +12,4 @@ Steps:
 **5.Automate Payment Reminders:**
 "With the setup complete, your Python script will automate the process of sending payment reminders based on the data in your Google Sheets document. It will access the necessary information, such as recipient names, email addresses, due dates, and amounts, and send reminder emails accordingly."
 **6.Run main.py**
+"# Automate-mail" 
